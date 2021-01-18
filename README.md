@@ -2,7 +2,7 @@
 
 *Business & Management graduate* [IQS School of Management](https://www.iqs.edu/es/iqs-school-management)  
 *Master in Global Entrepreneurial Management* [University of San Francisco](https://www.usfca.edu/management/graduate-programs/global-entrepreneurial-management)  
-*Master student in Data Science* [Nuclio Digital School](https://nuclio.school/master-data-science/#1605285188583-4663639e-512b)
+*Master in Data Science* [Nuclio Digital School](https://nuclio.school/master-data-science/#1605285188583-4663639e-512b)
 
 [![Linkedin: JordiFornaguera](https://img.shields.io/badge/-Jordi_Fornaguera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jordi-fornaguera-perez/)](https://www.linkedin.com/in/jordi-fornaguera-perez/)
 [![GitHub JordiFornaguera](https://img.shields.io/github/followers/JordiFornaguera?label=follow&style=social)](https://github.com/JordiFornaguera)
